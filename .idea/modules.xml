@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/escolar/academia.iml" filepath="$PROJECT_DIR$/escolar/academia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coa-api/coa-api.iml" filepath="$PROJECT_DIR$/coa-api/coa-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sie-api/coa-api (1).iml" filepath="$PROJECT_DIR$/sie-api/coa-api (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/discover-server/discover-server.iml" filepath="$PROJECT_DIR$/discover-server/discover-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sistema-academia.iml" filepath="$PROJECT_DIR$/.idea/sistema-academia.iml" />
+    </modules>
+  </component>
+</project>
